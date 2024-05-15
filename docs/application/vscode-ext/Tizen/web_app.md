@@ -87,13 +87,3 @@ To create a Tizen Web project, follow the steps below:
 3. Add a break point in your source code.
 
    ![Break point](media/web_add_breakpoint.PNG)
-
-### Debug your application in web simulator
-
-1. In VS Code, click **View &gt; Command Palette**.
-
-2. In the input field of the Command Palette that appears type simulator, then select **Tizen Web: Run Web Simulator**.
-
-   ![Web simulator](media/web_debug_simulator1.PNG)
-
-   ![Web simulator](media/web_debug_simulator2.PNG)

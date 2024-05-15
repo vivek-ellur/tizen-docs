@@ -1,10 +1,6 @@
 # Running and Testing Your Application
 
-Tizen Studio provides the following set of tools to help you run and test your Web application projects:
-
-- [Web Simulator](web-simulator.md)
-
-  You can run your Web application in a Google Chrome&trade; browser-based simulator, which provides many settings and features for debugging your application. You can test how the application behaves, and even send in events and messages.
+Tizen Studio provides the Web unit Testing Tool for testing your Web application projects:
 
 - [Web Unit Testing Tool](web-unit-test-tool.md) **(Unit Testing Web Applications)**
 
